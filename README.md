@@ -1,16 +1,13 @@
-## Hi there 👋
+##👋 Hey there! I'm Ons – a curious mind, a code crafter, and a lifelong learner.
 
-<!--
-**Onous/Onous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Currently diving deep into Computer Engineering and exploring the magic of Data, Cloud & IoT.
 
-Here are some ideas to get you started:
+🚀 Passionate about building real-world solutions – from automating daily tasks to crafting smart systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Always up for a new challenge, a hackathon, or just a good coffee-fueled coding session.
+
+🤝 Open to collaboration, internships, and sharing ideas. Let’s connect, build, and grow!
+
+🔧 Tools & Tech I enjoy: Python | SQL | HTML/CSS | JS | MySQL | Linux | Git | Cloud (soon to master 😉)
+
+🌍 I also volunteer with Red Cross & Red Crescent – tech meets heart 💗
