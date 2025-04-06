@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ons 
+# 👋🏻 Hey there! I'm Ons 
 
 <b><i>– a curious mind, a code crafter, and a lifelong learner.</i></b></br>
 💻 Currently diving deep into Computer Engineering and exploring the magic of Data, Cloud & IoT.</br>                                                                            🚀 Passionate about building real-world solutions – from automating daily tasks to crafting smart systems.</br>
