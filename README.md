@@ -1,4 +1,9 @@
-# 👋🏻 Hey there! I'm Ons 
+<!-- # 👋🏻 Hey there! I'm Ons -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Ons;I+love+coding+and+designing+websites">
+  </a>
+</h1>
 
 <b><i>– a curious mind, a code crafter, and a lifelong learner.</i></b></br>
 💻 Currently diving deep into Computer Engineering and exploring the magic of Data, Cloud & IoT.</br>                                                                            🚀 Passionate about building real-world solutions – from automating daily tasks to crafting smart systems.</br>
